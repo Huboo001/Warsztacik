@@ -1,0 +1,10 @@
+przeglad coroczny
+100 
+przeglad losowy
+100000
+rozrzad
+850 
+wymiana klockow hamulcowych
+600 
+remont silnika
+999999 
